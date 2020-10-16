@@ -3,7 +3,7 @@ title: "Authentication"
 sidebar_label: Introduction
 ---
 
-Home Assistant has a built-in authentication system allowing different users to interact with Home Assistant. The authentication system consist of various parts.
+Home Assistant has a built-in authentication system allowing different users to interact with Home Assistant. The authentication system consists of various parts.
 
 <img class='invertDark' src='/img/en/auth/architecture.png'
   alt='Overview of how the different parts interact' />
